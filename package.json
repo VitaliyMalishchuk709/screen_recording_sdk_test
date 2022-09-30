@@ -1,0 +1,14 @@
+{
+	"name": "recording-sdk-unity",
+	"displayName": "Screen Recording SDK",
+	"version": "0.4.8",
+	"unity": "2021.2",
+	"author": "Effi",
+	"description": "Screen recording plugin",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VitaliyMalishchuk709/screen_recording_sdk_test.git"
+	}
+}
